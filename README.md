@@ -1,2 +1,21 @@
 # Ratin-Virus
-A virus type thing i made (KEEP IN MIND THAT THERES A STOP VIRUS FILE THAT STOPS THE VIRUS, IF U EVER ACCIDENTALLY DELETE THAT FILE, U CAN STILL STOP THE VIRUS FROM THE TASK MANEGER OR U CAN USE THE COMMAND PROMPT AS ADMINISTRATOR AND RUN THIS COMMAND "taskkill /f /im wscript.exe")
+
+by That1Dummy
+https://youtube.com/@That1Dummy
+
+======READ ME==========
+
+This is COMPLETLY HARMLESS. dont believe me? try it on a 
+virtual machine.
+
+Unzip the .zip file before proceeding.
+
+If you cant close the window click on the "CloseRatinVirus" app
+and the window will close.
+
+If you deleted the app, open command prompt as administrator
+and run "taskkill /f /im wscript.exe"
+or just go to taskmanager and end the task.
+
+========================
+I only made this for fun
